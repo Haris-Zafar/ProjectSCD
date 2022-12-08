@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "mongodb": "^4.12.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "movie review app",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "author": "haris",
+  "license": "ISC"
+}
